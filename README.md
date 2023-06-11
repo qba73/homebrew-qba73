@@ -1,2 +1,2 @@
-# homebrew-qba73
-Brew tap for qba73 projects
+# homebrew-tap
+Brew tap for qba73 projects.
