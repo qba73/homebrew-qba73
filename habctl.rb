@@ -12,7 +12,7 @@ class Habctl < Formula
     sha256 "af2fc46e6803b0fe381de54cf6a39ebb8e1cc833b80d53f34922fbf61e5e1eeb"
 
     def install
-      bin.install "habctl"
+      bin.install "habit"
     end
   end
 
